@@ -4,7 +4,7 @@
 
 访问[http://layui.blogweb.cn/](http://layui.blogweb.cn/)
 
-> layui.blogweb.cn 的域名和服务器都在 2025 年到期，后面还会续费，请大家放心收藏。
+> layui.blogweb.cn 的域名和服务器都在 2027 年到期，后面还会续费，请大家放心收藏。
 
 本站仅为 layui 文档镜像站点！
 
@@ -24,6 +24,6 @@
 
 就有了下面这个项目：
 
-文档自动下载[https://gitee.com/itmtr/itmtr_document_download](https://gitee.com/itmtr/itmtr_document_download)
+文档自动下载[https://github.com/Lrunlin/layui-doc](https://github.com/Lrunlin/layui-doc)
 
 后来发现，时候有其他像`teleport pro`等这样的工具可以使用的，早咋没想到呢，还自己搞个项目，还没有人家的好用 :joy: 。

@@ -696,7 +696,7 @@ layui.use(['util', 'code', 'element'], function(){
     bar1: false
     ,click: function(type){
       if(type === 'bar1'){
-        location.href = 'https://blog.itmtr.cn/';
+        location.href = 'https://blogweb.cn/';
       }
     }
   });
